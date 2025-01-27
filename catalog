@@ -1,1 +1,5 @@
-
+struct Product {
+    char description[100];
+    float price;
+    int item_count;
+};
